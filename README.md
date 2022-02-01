@@ -1,6 +1,6 @@
 # Eye Exercise
 
-In this exercise, Two eyes follow the mouse position on the screen using the mouse events..
+In this exercise, two eyes follow the mouse position on the screen using the mouse events..
 
 To setup on your machine.
 
